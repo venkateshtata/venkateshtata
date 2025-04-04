@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkat
 
-AI/ML Engineer passionate about building scalable AI systems, with expertise in Computer Vision, NLP, and Multi-Modal Systems. Currently working as a Data Scientist at NHS, London, where I develop healthcare-specific generative AI pipelines and multimodal knowledge graphs.
+AI/ML Engineer passionate about building scalable AI systems, with expertise in Computer Vision, NLP, and Multi-Modal Systems. Currently working as a Data Scientist at NHS, where I develop healthcare-specific generative AI pipelines and multimodal knowledge graphs.
 
 ## 🔭 What I'm Working On
 
